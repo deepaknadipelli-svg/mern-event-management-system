@@ -1,0 +1,38 @@
+.dashboard-container {
+    padding: 40px;
+  }
+  
+  .section {
+    margin-top: 40px;
+  }
+  
+  .event-card {
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  }
+  
+  .logout-btn {
+    background: #ff4d4d;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .cancel-btn {
+    margin-top: 10px;
+    background: #ff6b6b;
+    border: none;
+    padding: 8px 14px;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .cancel-btn:hover {
+    background: #e60000;
+  }
